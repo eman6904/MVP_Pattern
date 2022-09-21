@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/calculate">
+
+    <fragment
+        android:id="@+id/calculate"
+        android:name="com.example.architecturepatterns.view.Calculate"
+        android:label="fragment_calculate"
+        tools:layout="@layout/fragment_calculate" />
+</navigation>
