@@ -5,4 +5,6 @@
     <string name="enter_second_number">Enter Second Number</string>
     <string name="enter_first_number">Enter First Number</string>
     <string name="calculate">Calculate</string>
+    <string name="sum">Sum=</string>
+    <string name="sub">sub=</string>
 </resources>

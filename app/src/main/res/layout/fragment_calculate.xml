@@ -50,7 +50,7 @@
         android:textSize="@dimen/_20sdp"
         android:textStyle="bold"
         android:textColor="@color/black"
-        android:text="Sum= " />
+        android:text="@string/sum" />
 
     <TextView
         android:id="@+id/sum"
@@ -71,7 +71,7 @@
         android:textSize="@dimen/_20sdp"
         android:textStyle="bold"
         android:textColor="@color/black"
-        android:text="sub= " />
+        android:text="@string/sub" />
 
     <TextView
         android:id="@+id/sub"
